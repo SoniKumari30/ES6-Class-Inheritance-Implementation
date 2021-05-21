@@ -3,7 +3,7 @@ class Square extends Circle {
       super(x, y);
       this.bright = random(255);
       this.r = 10;
-    }
+    }//
   
     update() {
       super.update();

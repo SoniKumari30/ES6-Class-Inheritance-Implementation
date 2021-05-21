@@ -2,7 +2,7 @@ let p1, p2;
 function setup() {
   createCanvas(600, 600);
   p1 = new Circle(300, 300);
-  p2 = new Square(300, 300);
+  p2 = new Square(300//, 300);
 }
 
 function draw() {
