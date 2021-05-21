@@ -2,7 +2,7 @@ class Circle {
     constructor(x, y) {
       this.x = x;
       this.y = y;
-    }//
+    }////
   
     update() {
       this.x += random(-5, 5);
